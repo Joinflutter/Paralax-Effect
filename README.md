@@ -1,4 +1,7 @@
-# paralax_garden_ui
+# Paralax Effect
+
+![photo_2023-01-18_20-07-05](https://user-images.githubusercontent.com/87581799/213240040-d83ab957-718d-4c81-8f2d-5908e10ed8c2.jpg)
+
 
 A new Flutter project.
 
